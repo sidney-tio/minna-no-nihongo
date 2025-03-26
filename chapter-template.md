@@ -1,5 +1,6 @@
-# Minna no Nihongo - Chapter X
+# Chapter X
 
+## Personal Notes, Reflections and Feelings about the Chapter
 ## 📝 Grammar Points
 
 ### 1. [Grammar Point 1]

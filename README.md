@@ -1,9 +1,11 @@
-# Minna no Nihongo - Content Page
+# Japanese Self-Study
+
+This repository serves as my personal notes for studying Japanese language. The content will be based on MnN.
+
 
 ## Quick Navigation
 - [Study Tips](#study-tips)
 - [Chapter Overview](#chapter-overview)
-- [Additional Resources](#additional-resources)
 
 ## Study Tips
 - Review vocabulary daily using spaced repetition
@@ -21,24 +23,4 @@
 | Chapter 4 | • Verb groups (ru-verbs, u-verbs, irregular)<br>• Present tense affirmative/negative<br>• に + time expression<br>• と - With (people) | [Chapter 4](#) |
 | Chapter 5 | • Adjectives (i-adjectives, na-adjectives)<br>• noun + じゃないです (Negation)<br>• どう/いかが - How | [Chapter 5](#) |
 
-## Additional Resources
-- [Audio Materials](#)
-- [Practice Worksheets](#)
-- [Kanji Reference](#)
-- [Grammar Supplement](#)
-
 ---
-
-**Study Progress Tracker**
-
-- [ ] Chapter 1 Complete
-  - [ ] Vocabulary memorized
-  - [ ] Grammar exercises completed
-  - [ ] Listening practice
-  - [ ] Speaking practice
-
-- [ ] Chapter 2 Complete
-  - [ ] Vocabulary memorized
-  - [ ] Grammar exercises completed
-  - [ ] Listening practice
-  - [ ] Speaking practice

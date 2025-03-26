@@ -1,4 +1,4 @@
-# Japanese Self-Study
+# Japanese Self-Study 🇯🇵
 
 This repository serves as my personal notes for studying Japanese language. The content will be based on MnN.
 
